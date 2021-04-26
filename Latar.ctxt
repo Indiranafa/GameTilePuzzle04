@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Latar
+comment1.params=
+comment1.target=Latar()
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=num
+comment3.target=int[]\ generateSort(int)
+comment4.params=
+comment4.target=void\ cekPosition()
+numComments=5
